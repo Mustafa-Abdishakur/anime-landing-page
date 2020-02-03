@@ -1,0 +1,32 @@
+.pic{
+width:1000px;
+display:block;
+margin:auto;
+color:red;
+}
+h1{
+text-align:center;
+}
+body{
+	background-color:#40c040
+
+}
+
+
+
+h2 {
+
+	text-align: center;
+	text-decoration: underline;
+}
+p{
+	margin-left:200px;
+margin-right: 200px;
+}
+img{
+	display:block;
+	margin:auto;
+}
+h4{
+	text-align: center;
+}
